@@ -12,7 +12,7 @@ Tahmin için 5 hakkınız vardır !!!!!
 *************************************************************
 """)
 
-rastgele_sayı = random.randint(1,50) // Eğer değeri değiştirmek isterseniz burdan ayarlayabilirsiniz.
+rastgele_sayı = random.randint(1,50) # Eğer değeri değiştirmek isterseniz burdan ayarlayabilirsiniz.
 tahmin_hakkı = 5
 
 while True:
